@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/vue_project/dist/'
+  publicPath: '/vue_test/dist/'
 }
